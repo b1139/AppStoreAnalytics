@@ -1,2 +1,2 @@
 # AppStoreAnalytics
-Django client API which exposes data of apps data in PlayStore/iStore
+Django client API which exposes Mobile Application's stats in PlayStore/iStore
