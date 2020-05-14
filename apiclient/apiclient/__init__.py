@@ -1,0 +1,2 @@
+def storeclient():
+    return None
